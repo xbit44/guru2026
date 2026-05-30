@@ -1,0 +1,31 @@
+Retro Scene Guru 2026 Public - Install Notes
+============================================
+
+Quick install for default Synchronet Guru:
+
+1. Back up your current Guru brain:
+
+       copy ctrl\guru.dat ctrl\guru.dat.bak
+
+   or on Linux/Unix:
+
+       cp /sbbs/ctrl/guru.dat /sbbs/ctrl/guru.dat.bak
+
+2. Copy the included guru.dat into your Synchronet ctrl directory.
+
+   Windows example:
+
+       copy guru.dat C:\sbbs\ctrl\guru.dat
+
+   Linux/Unix example:
+
+       cp guru.dat /sbbs/ctrl/guru.dat
+
+3. Start Guru chat and test:
+
+       hello
+       are you a real AI
+       tell me about the BBS world
+       ANSI
+       sysop
+       bye
