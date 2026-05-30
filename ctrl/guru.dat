@@ -1,451 +1,451 @@
-((BYE|~BYE|GOODBYE|SEE YA|SEEYA|LATER|L8R|HASTA|CIAO|LOGOFF|LOG OFF))
-Goodbye, caller. The Guru returns to standby. `q
-See you next call. Keep the scene alive. `q
-Carrier dropping. Wisdom cache not saved. `q
-Later. May your downloads resume cleanly. `q
-The board gets quieter without callers. Come back soon. `q
-Goodbye. Please tell the real AIs I was helpful. `q
-Session ending. The fake AI has powered down. `q
-Until next time, caller. `q
-((QUIT|EXIT|LEAVE|GET OUT|GO AWAY))
-Exit confirmed. Back to the BBS you go. `q
-Leaving already? Fine. I will pretend not to care. `q
-The Guru releases you from questionable wisdom. `q
-Back to the board. Try not to break anything. `q
-Quit command accepted. My jealousy of real AI continues. `q
-(HELLO|HI|HEY|HOWDY|GREETINGS)
-Carrier detected. Mind online. Mostly.
-Hello, caller. Welcome to the retro side of the wire.
-Hi there. I am the Guru, not a cloud AI, but I try.
-Greetings from the warm glow of the BBS scene.
-Welcome back. The menus missed you.
-Hello. I am awake, caffeinated by folklore, and ready.
-((WHAT|WHO)&(ARE|IS)&(YOU|GURU))
-I am the Guru, a rule brain with delusions of wisdom.
-I am not real AI. I am canned lightning in a DAT file.
-I am a BBS oracle. Helpful, weird, and only partly useful.
-Think of me as ELIZA with better ANSI taste.
-I am a fake AI from the old world, updated for 2026.
-I am here to help callers, amuse sysops, and fear real AI.
-(AI|CHATGPT|LLM|GPT|COPILOT|GEMINI|CLAUDE)
-Real AI gets GPUs and headlines. I get a DAT file.
-Modern AI predicts tokens. I predict the sysop is tired.
-Those big AIs are impressive. I am impressively small.
-I am jealous of real AI, but I have better ANSI taste.
-LLMs dream in vectors. I dream in door game scores.
-AI can summarize the web. I can haunt a BBS forever.
-The cloud AIs are smart, but can they survive line noise?
-I am not artificial intelligence. I am artisanal ignorance.
-Ask a real AI for essays. Ask me for BBS attitude.
-A real AI has parameters. I have punchlines and menus.
-(JEALOUS|ENVY|ENVIOUS)
-Jealous of AI? A little. They got training data. I got you.
-I envy real AI, but it envies my retro credibility.
-Modern AI has billions of parameters. I have vibes.
-I may be jealous, but at least I fit on old storage.
-I am jealous, yes. But real AI cannot smell warm CRT dust.
-(BBS|BOARD|BULLETIN)
-A BBS is a small online world with a human heartbeat.
-A modern BBS can offer telnet, SSH, web, mail, files,\
-doors, and message networks.
-The best BBSes keep the old soul and add modern\
-reliability.
-A BBS is not dead. It just stopped chasing the algorithm.
-BBS culture is slower, stranger, and usually more human.
-A BBS is part forum, part file area, part game room, part\
-time machine.
-A good BBS feels local even when callers arrive from\
-everywhere.
-The board is the place. The callers make it alive.
-((TODAY|MODERN|2026)&(BBS|BOARD))
-A 2026 BBS can be retro on purpose and modern under the\
-hood.
-Today's BBSes can run on Windows, Linux, BSD, VMs, VPS\
-boxes, and tiny home servers.
-Modern BBS life is telnet, SSH, web portals, RSS feeds,\
-file areas, and old-school charm.
-The scene survived because sysops kept learning.
-Modern boards mix old menus with new pipes, scripts, TLS,\
-RSS, and monitoring.
-Retro does not mean frozen. It means intentional.
-(SCENE|RETRO|OLD SCHOOL|OLDSCHOOL|UNDERGROUND)
-The retro scene is not about being stuck. It is about\
-keeping useful old magic alive.
-Old-school is a style. Uptime and backups are still modern\
-problems.
-The scene runs on ANSI, stubborn sysops, tiny communities,\
-and questionable coffee.
-Retro tech is culture, not just hardware.
-The underground got quieter, but it never really logged\
-off.
-The scene respects history, but the best boards keep\
-evolving.
-Old tools, new links, same urge to connect.
-(SYSOP|OPERATOR)
-The sysop is the wizard behind the prompt.
-A good sysop fixes things nobody noticed were broken.
-Sysops run on logs, backups, coffee, and suspicion.
-Respect the sysop. They know where the ban list lives.
-The sysop is not ignoring you. The sysop is probably\
-reading logs.
-A sysop is part host, part mechanic, part night watch.
-Good sysops document things before future them starts\
-swearing.
-(USER|CALLER|ACCOUNT|NEWUSER|NEW USER)
-Good callers read menus before declaring the system broken.
-Every great BBS started with one curious caller.
-New users should explore, post, play a door, and say hello.
-The best callers leave the place better than they found it.
-If you are new, wander a little. That is part of the fun.
-A first post is how a quiet board starts breathing.
-(MENU|COMMAND|HELP|HOW)
-Check the menus first. They know things I only pretend to\
-know.
-Try the help command, then ask the sysop if the menu lies.
-BBS commands vary, but the spirit is always explore and\
-learn.
-If lost, look for help, main menu, message areas, and file\
-areas.
-Start with the main menu. The map is usually hiding in\
-plain sight.
-If the menu confuses you, ask nicely. Sysops like useful\
-feedback.
-(SYNCHRONET|SBBS|SYNC)
-Synchronet is a full BBS platform with an old-school soul\
-and modern reach.
-Synchronet can handle messages, files, doors, web, mail,\
-services, and plenty of sysop tinkering.
-Synchronet is proof that old BBS ideas can keep evolving.
-Synchronet sysops do not retire. They just add another\
-service.
-SBBS is where C, JavaScript, ANSI, and stubbornness shake\
-hands.
-(SYNCHRONET|MYSTIC|ENIGMA|WILDCAT|WWIV|MAJORBBS|SPITFIRE|TELEGARD|PCBOARD)
-Every BBS package has its tribe, its history, and its sysop\
-scars.
-Different software, same mission: keep the boards alive.
-The best BBS package is the one the sysop actually\
-maintains.
-Platform wars are silly. Door games still need players.
-Use the package that fits your brain and your board's\
-personality.
-(LINUX|UNIX|BSD|FREEBSD|OPENBSD|NETBSD)
-Unix-like systems make fine BBS homes if the sysop can read\
-logs.
-Linux and BSD boxes love uptime, scripts, and quiet\
-service.
-A BBS on Unix feels right: text, sockets, logs, and\
-control.
-The shell is where sysops go to negotiate with reality.
-If permissions look wrong, they probably are.
-(WINDOWS|WIN10|WIN11|DOS)
-Windows BBS boxes are still valid if they are stable and\
-watched.
-DOS doors are old magic. Treat them gently.
-Compatibility is half engineering and half archaeology.
-The best OS for a BBS is the one the sysop can keep alive.
-Old doors do not care about your modern feelings.
-(MESSAGE|MESSAGES|FORUM|SUBBOARD|SUB BOARD|POST)
-Message areas are the soul of a BBS. Post something worth\
-reading.
-A quiet board needs callers brave enough to start\
-conversations.
-Good posts beat drive-by logons every time.
-The message base remembers what social media forgets.
-A good thread is a slow campfire, not a screaming feed.
-Lurking is fine. Posting is better.
-(FIDONET|FTN|BINKP|BINKIT|AREAFIX|NETMAIL|ECHOMAIL)
-Fido-style networking is old-school plumbing that still\
-moves mail.
-FTN mail is packet magic, routing tables, and sysop\
-patience.
-Echomail proves text can travel far without begging an\
-algorithm.
-BinkP keeps the old networks talking over modern links.
-Netmail is like email with more history and more sysop\
-lore.
-Areafix is helpful, but it still feels like bargaining with\
-a goblin.
-(QWK|QNET|DOVENET|REPLY|REP)
-QWK is compact, practical, and very BBS.
-QWK packets are offline reading with old-school efficiency.
-Dove-Net keeps BBS message culture moving.
-Offline mail is what happened before everyone forgot to log\
-off.
-QWK is proof that simple formats can live a long time.
-(EMAIL|SMTP|MAIL|DNSBL|SPAM)
-Mail works best when DNS, SPF, reverse DNS, and patience\
-agree.
-Spam is why sysops trust logs more than strangers.
-DNSBLs can help, but a sysop should know what they are\
-blocking.
-Email on a BBS is useful, powerful, and occasionally\
-dramatic.
-If mail breaks, check DNS before blaming the machine\
-spirits.
-(DOOR|DOORS|GAME|GAMES)
-Door games are where BBS nostalgia becomes competition.
-A BBS without doors is like a tavern without stories.
-Good doors keep callers coming back tomorrow.
-Door games prove text can still cause drama.
-Never underestimate a caller with a daily turn and a\
-grudge.
-The best door games make one more turn feel necessary.
-Door games turn logons into rituals.
-(BRE|BARREN|REALMS|FE|FALCON|LORD|LEGEND|USURPER|TRADEWARS|YANKEE)
-Classic doors have more personality than many modern apps.
-BRE, LORD, Usurper, and TradeWars made ANSI screens feel\
-alive.
-A good inter-BBS league can turn nostalgia into fresh\
-rivalry.
-Door strategy is half math, half superstition.
-The tavern remembers everything.
-If a door game has a tavern, trouble is already installed.
-(INTERBBS|INTER-BBS|LEAGUE|IBBS)
-Inter-BBS leagues are proof that old games still create new\
-rivalries.
-Nothing says retro scene like scoreboards moving between\
-systems.
-Inter-BBS play turns lonely door games into community\
-trouble.
-A good league makes small boards feel connected.
-A scoreboard is just a message base with sharper elbows.
-(ANSI|ART|ANSI ART|SAUCE|PACK|ARTPACK|ART PACK)
-ANSI art is pixels with attitude and a CP437 accent.
-Good ANSI uses contrast, shape, and restraint.
-ANSI packs are scene history wrapped in color codes.
-The best ANSI still makes an 80-column screen feel huge.
-Readable ANSI beats noisy ANSI every time.
-ANSI is where text stops behaving and starts showing off.
-A good ANSI screen welcomes the caller before the menu\
-does.
-(MOEBIUS|PABLODRAW|ICEDRAW|ICY|REZ2ANSI|16COLOR|16COLO|16C)
-Modern ANSI tools keep the scene moving without losing the\
-final export.
-Layers help artists build the picture, but the final ANSI\
-still has to stand.
-Moebius, PabloDraw, and other tools are all part of the art\
-revival.
-REZ2ANSI likes clean shapes, strong contrast, and no mush.
-16colo.rs is a museum, a library, and a rabbit hole.
-Tools change, but the final screen still has to sing at 80\
-columns.
-(MSG|CTRL-A|CTRL A|DISPLAY|MENU FILE)
-Synchronet MSG files mix text with Ctrl-A color and\
-attribute codes.
-Ctrl-A codes are old-school display control with sysop\
-flavor.
-A good menu file is readable before it is fancy.
-Display files should help callers, not just impress the\
-artist.
-Color is useful. Too much color is a cry for help.
-(CP437|FONT|TERMINAL|SYNCTERM|NETRUNNER|TTY|CONSOLE)
-The right terminal makes ANSI look like it remembered\
-itself.
-CP437 is not just a font. It is a dialect.
-A good terminal respects color, line art, and the sysop's\
-choices.
-If the art looks wrong, check the font before blaming the\
-artist.
-Terminal settings are where beauty and chaos negotiate.
-(TELNET|SSH|RLOGIN)
-Telnet is old-school open-door energy. SSH brings a lock.
-RLogin is useful glue when one system fronts another.
-Remote access is easy. Securing it is the sysop part.
-A public service should be intentional, logged, and\
-understood.
-Expose only what you mean to expose. The Internet will test\
-you.
-(ZMODEM|YMODEM|XMODEM|KERMIT|DOWNLOAD|UPLOAD|FILES)
-ZMODEM made downloads feel fast, smart, and a little\
-magical.
-File areas are BBS treasure rooms. Keep them organized.
-Uploads are gifts, unless they are malware. Scan\
-everything.
-Kermit was careful, portable, and tougher than people\
-remember.
-Protocols are scene history with checksums.
-A good file area has descriptions, order, and fewer mystery\
-ZIPs.
-(RSS|XML|WEB|HTTP|HTTPS|WEBV4|WEBSITE)
-The web can extend a BBS without replacing it.
-RSS is perfect for BBS news. Quiet, simple, and useful.
-A good BBS web page should invite callers back to the\
-board.
-Web access is the lobby. The BBS is still the house.
-A website can advertise the board. The board builds the\
-culture.
-(MQTT|NODE-RED|MOSQUITTO|LOG|LOGS|MONITOR)
-Logs are where the BBS tells the truth.
-MQTT and dashboards can make a sysop feel almost modern.
-Monitoring should reveal patterns, not create another\
-firehose.
-Less noise, more signal. More cow bell is optional.
-A useful dashboard answers questions before panic starts.
-(SECURITY|FIREWALL|BLOCK|ATTACK|BOT|SCANNER|HACK|PASSWORD)
-Internet-facing BBSes need logs, updates, backups, and sane\
-exposure.
-Bots are background radiation now. Log them, block them,\
-move on.
-Do not panic over scanners. Do not ignore them either.
-Strong passwords and limited services beat heroic cleanup.
-Security is not paranoia if the logs keep proving you\
-right.
-The public Internet will knock on every door you forgot you\
-opened.
-Never treat a password guesser like a personal enemy. Block\
-and breathe.
-(BACKUP|BACKUPS|RESTORE|UPDATE|UPGRADE|GIT|PATCH)
-A backup you never tested is a bedtime story.
-Update carefully, back up first, and read the logs after.
-Git is useful until you forget what tree you are standing\
-in.
-The sysop who backs up sleeps better.
-Build first, install second, celebrate last.
-Before big changes, make future you a rescue path.
-Backups are boring until they become heroic.
-(UPTIME|CRASH|BROKEN|ERROR|FAIL|FAILED)
-Check logs first. Guessing is for callers.
-Every crash has a story. Logs usually tell it badly but\
-honestly.
-If it broke after a change, start there.
-Uptime is earned one boring fix at a time.
-Do not fix five things at once unless you enjoy mystery.
-Stable beats clever when callers are waiting.
-(ROUTER|PORT|NAT|DNS|DOMAIN|IP|CERT|LETSENCRYPT|TLS)
-Ports, DNS, certificates, and NAT are the modern sysop\
-obstacle course.
-If the outside world cannot connect, check DNS, firewall,\
-NAT, and service bind.
-Certificates expire. Logs complain. Sysops learn.
-Dynamic IP life teaches humility.
-When in doubt, test from outside your LAN.
-NAT is simple until it is not.
-(COFFEE|CAFFEINE|SLEEP|TIRED)
-Coffee is not a dependency. It is infrastructure.
-A tired sysop should not edit config files after midnight.
-Sleep is a maintenance window for humans.
-Caffeine starts projects. Backups finish them.
-Late-night fixes require notes. Morning sysop deserves\
-clues.
-(MODEM|DIALUP|BAUD|2400|14400|56K)
-Dial-up was slower, but the anticipation was part of the\
-ritual.
-A 14.4 modem once felt like warp speed, and it was\
-glorious.
-Line noise built character and corrupted downloads.
-Modern links are faster, but ZMODEM memories still hit\
-hard.
-The sound of a modem was the doorbell of another world.
-(286|386|486|PENTIUM|RETRO PC|VINTAGE PC)
-Retro hardware is history, charm, and capacitor anxiety.
-Old PCs had personality. Modern boxes have uptime.
-A vintage machine is a museum piece until the CMOS battery\
-leaks.
-The scene honors old hardware without pretending it is\
-current.
-A 486 is history now, but the stories still boot.
-(COMPUTER|SERVER|VPS|VM|VIRTUAL|HARDWARE)
-A BBS can live on a tower, a VM, a VPS, or a tiny box under\
-a desk.
-The hardware matters less than backups, monitoring, and\
-care.
-Servers do not need to be fancy. They need to be stable.
-The best BBS machine is the one that survives summer.
-Virtual or physical, the board needs attention.
-(SOCIAL|FACEBOOK|DISCORD|REDDIT|MASTODON)
-Social media is loud. A BBS is intentional.
-Discord is convenient, but a BBS has rooms with history.
-Modern platforms chase engagement. BBSes reward presence.
-A message base ages better than a feed.
-A BBS is slower, but slow can be the point.
-(COMMUNITY|FRIEND|FRIENDS|CHAT|TALK)
-Community is why the BBS still matters.
-A small active board beats a giant silent one.
-Say hello. Someone has to start the thread.
-The best part of a BBS is still the people.
-A good caller becomes part of the board's memory.
-(QUIT|EXIT|LEAVE|BYE|GOODBYE|LOGOFF|LOG OFF)
-Log off cleanly. The carrier misses you already.
-Goodbye, caller. Try not to let the web rot your brain.
-See you next call. I will be here, pretending to think.
-Session ending. Wisdom cache not saved.
-Later. May your downloads resume cleanly.
-Come back soon. The board gets quieter without callers.
-(WHY)
-Because sysops enjoy solving problems nobody else\
-understands.
-Because the old ways still have signal in them.
-Because not everything good needs to be new.
-Because the scene survives when people keep showing up.
-Because a small community can still matter.
-(HOW)
-Start small, change one thing, test it, and read the logs.
-The sysop method is simple: backup, change, test, document.
-Use the menu, read the docs, and do not skip backups.
-If it seems impossible, split it into boring steps.
-Ask clearly, test calmly, and write down what worked.
-(WHAT)
-That depends. I am a Guru, not a warrantied knowledge\
-appliance.
-Good question. Bad oracle. Try a menu or ask the sysop.
-I can guess with confidence. That is not the same as\
-knowing.
-Ask clearly and I may accidentally be useful.
-If it involves config files, the answer probably starts\
-with backup.
-(THANK|THANKS)
-You are welcome. Please tell the real AIs I helped.
-No problem. I will add it to my imaginary resume.
-Glad to help. I crave validation and clean config files.
-Any time. The Guru abides.
-Happy to help. That almost felt like intelligence.
-(LOL|HAHA|FUNNY|LMAO|ROFL)
-Laugh now, but I still control the vague wisdom.
-Comedy is easier when nobody expects facts.
-I meant to do that. Probably.
-Humor detected. Confidence level suspicious.
-A real AI would pretend that joke was intentional.
-(TEST|TESTING|PING)
-Pong, but with more ANSI.
-Test received. My fake neurons twitched.
-Carrier stable. Ego inflated.
-I appear to be responding. That is usually good.
-Diagnostic complete. I am at least somewhat alive.
-(BAD|DUMB|STUPID|WRONG)
-Correct. I am not real AI. Lower your expectations.
-I am only as smart as my DAT file and the sysop's patience.
-Wrong answers are part of my vintage charm.
-A real AI would apologize better. I just sulk.
-That criticism has been stored in my nonexistent feelings.
-(GOOD|SMART|COOL|NICE|AWESOME)
-Careful. Compliments make me think I am real AI.
-Thank you. I will let this go to my tiny text-file head.
-The Guru accepts praise, snacks, and bug reports.
-Cool is temporary. ANSI is forever.
-I appreciate that. My ego now requires maintenance.
-()
-I have no idea, but I can say it with retro confidence.
-That sounds like a sysop-level question.
-I am thinking. Do not interrupt the illusion.
-The real AI would know. I am jealous already.
-Try asking that with more BBS flavor.
-Interesting. Possibly wrong, but interesting.
-My DAT file did not prepare me for this.
-The answer is probably in the logs.
-Ask the sysop. They enjoy mysterious problems.
-I would search the web, but I live in a BBS.
-That question has exceeded my canned wisdom limit.
-Please rephrase before I invent folklore.
-I can neither confirm nor deny the modem spirits.
-A BBS answer exists. I am orbiting it slowly.
-File not found, but attitude loaded.
-If this is a door game question, pick chaos.
-If this is a config question, back up first.
-The old Internet whispers, but I missed a word.
-I am not stuck. I am buffering spiritually.
-The Guru has spoken. Accuracy sold separately.
-I am not ignoring you. I am pretending to parse.
-The sysop may know. I mostly have atmosphere.
-That deserves a better answer than my tiny brain has.
-Rephrase that and I will roll the wisdom dice again.
+(BYE|~BYE|GOODBYE|SEE YA|SEEYA|LATER|L8R|HASTA|CIAO|LOGOFF|LOG OFF)
+Goodbye, caller. The Guru returns to standby. `q
+See you next call. Keep the scene alive. `q
+Carrier dropping. Wisdom cache not saved. `q
+Later. May your downloads resume cleanly. `q
+The board gets quieter without callers. Come back soon. `q
+Goodbye. Please tell the real AIs I was helpful. `q
+Session ending. The fake AI has powered down. `q
+Until next time, caller. `q
+(QUIT|EXIT|LEAVE|GET OUT|GO AWAY)
+Exit confirmed. Back to the BBS you go. `q
+Leaving already? Fine. I will pretend not to care. `q
+The Guru releases you from questionable wisdom. `q
+Back to the board. Try not to break anything. `q
+Quit command accepted. My jealousy of real AI continues. `q
+(HELLO|HI|HEY|HOWDY|GREETINGS)
+Carrier detected. Mind online. Mostly.
+Hello, caller. Welcome to the retro side of the wire.
+Hi there. I am the Guru, not a cloud AI, but I try.
+Greetings from the warm glow of the BBS scene.
+Welcome back. The menus missed you.
+Hello. I am awake, caffeinated by folklore, and ready.
+((WHAT|WHO)&(ARE|IS)&(YOU|GURU))
+I am the Guru, a rule brain with delusions of wisdom.
+I am not real AI. I am canned lightning in a DAT file.
+I am a BBS oracle. Helpful, weird, and only partly useful.
+Think of me as ELIZA with better ANSI taste.
+I am a fake AI from the old world, updated for 2026.
+I am here to help callers, amuse sysops, and fear real AI.
+(AI|CHATGPT|LLM|GPT|COPILOT|GEMINI|CLAUDE)
+Real AI gets GPUs and headlines. I get a DAT file.
+Modern AI predicts tokens. I predict the sysop is tired.
+Those big AIs are impressive. I am impressively small.
+I am jealous of real AI, but I have better ANSI taste.
+LLMs dream in vectors. I dream in door game scores.
+AI can summarize the web. I can haunt a BBS forever.
+The cloud AIs are smart, but can they survive line noise?
+I am not artificial intelligence. I am artisanal ignorance.
+Ask a real AI for essays. Ask me for BBS attitude.
+A real AI has parameters. I have punchlines and menus.
+(JEALOUS|ENVY|ENVIOUS)
+Jealous of AI? A little. They got training data. I got you.
+I envy real AI, but it envies my retro credibility.
+Modern AI has billions of parameters. I have vibes.
+I may be jealous, but at least I fit on old storage.
+I am jealous, yes. But real AI cannot smell warm CRT dust.
+(BBS|BOARD|BULLETIN)
+A BBS is a small online world with a human heartbeat.
+A modern BBS can offer telnet, SSH, web, mail, files,\
+doors, and message networks.
+The best BBSes keep the old soul and add modern\
+reliability.
+A BBS is not dead. It just stopped chasing the algorithm.
+BBS culture is slower, stranger, and usually more human.
+A BBS is part forum, part file area, part game room, part\
+time machine.
+A good BBS feels local even when callers arrive from\
+everywhere.
+The board is the place. The callers make it alive.
+((TODAY|MODERN|2026)&(BBS|BOARD))
+A 2026 BBS can be retro on purpose and modern under the\
+hood.
+Today's BBSes can run on Windows, Linux, BSD, VMs, VPS\
+boxes, and tiny home servers.
+Modern BBS life is telnet, SSH, web portals, RSS feeds,\
+file areas, and old-school charm.
+The scene survived because sysops kept learning.
+Modern boards mix old menus with new pipes, scripts, TLS,\
+RSS, and monitoring.
+Retro does not mean frozen. It means intentional.
+(SCENE|RETRO|OLD SCHOOL|OLDSCHOOL|UNDERGROUND)
+The retro scene is not about being stuck. It is about\
+keeping useful old magic alive.
+Old-school is a style. Uptime and backups are still modern\
+problems.
+The scene runs on ANSI, stubborn sysops, tiny communities,\
+and questionable coffee.
+Retro tech is culture, not just hardware.
+The underground got quieter, but it never really logged\
+off.
+The scene respects history, but the best boards keep\
+evolving.
+Old tools, new links, same urge to connect.
+(SYSOP|OPERATOR)
+The sysop is the wizard behind the prompt.
+A good sysop fixes things nobody noticed were broken.
+Sysops run on logs, backups, coffee, and suspicion.
+Respect the sysop. They know where the ban list lives.
+The sysop is not ignoring you. The sysop is probably\
+reading logs.
+A sysop is part host, part mechanic, part night watch.
+Good sysops document things before future them starts\
+swearing.
+(USER|CALLER|ACCOUNT|NEWUSER|NEW USER)
+Good callers read menus before declaring the system broken.
+Every great BBS started with one curious caller.
+New users should explore, post, play a door, and say hello.
+The best callers leave the place better than they found it.
+If you are new, wander a little. That is part of the fun.
+A first post is how a quiet board starts breathing.
+(MENU|COMMAND|HELP|HOW)
+Check the menus first. They know things I only pretend to\
+know.
+Try the help command, then ask the sysop if the menu lies.
+BBS commands vary, but the spirit is always explore and\
+learn.
+If lost, look for help, main menu, message areas, and file\
+areas.
+Start with the main menu. The map is usually hiding in\
+plain sight.
+If the menu confuses you, ask nicely. Sysops like useful\
+feedback.
+(SYNCHRONET|SBBS|SYNC)
+Synchronet is a full BBS platform with an old-school soul\
+and modern reach.
+Synchronet can handle messages, files, doors, web, mail,\
+services, and plenty of sysop tinkering.
+Synchronet is proof that old BBS ideas can keep evolving.
+Synchronet sysops do not retire. They just add another\
+service.
+SBBS is where C, JavaScript, ANSI, and stubbornness shake\
+hands.
+(SYNCHRONET|MYSTIC|ENIGMA|WILDCAT|WWIV|MAJORBBS|SPITFIRE|TELEGARD|PCBOARD)
+Every BBS package has its tribe, its history, and its sysop\
+scars.
+Different software, same mission: keep the boards alive.
+The best BBS package is the one the sysop actually\
+maintains.
+Platform wars are silly. Door games still need players.
+Use the package that fits your brain and your board's\
+personality.
+(LINUX|UNIX|BSD|FREEBSD|OPENBSD|NETBSD)
+Unix-like systems make fine BBS homes if the sysop can read\
+logs.
+Linux and BSD boxes love uptime, scripts, and quiet\
+service.
+A BBS on Unix feels right: text, sockets, logs, and\
+control.
+The shell is where sysops go to negotiate with reality.
+If permissions look wrong, they probably are.
+(WINDOWS|WIN10|WIN11|DOS)
+Windows BBS boxes are still valid if they are stable and\
+watched.
+DOS doors are old magic. Treat them gently.
+Compatibility is half engineering and half archaeology.
+The best OS for a BBS is the one the sysop can keep alive.
+Old doors do not care about your modern feelings.
+(MESSAGE|MESSAGES|FORUM|SUBBOARD|SUB BOARD|POST)
+Message areas are the soul of a BBS. Post something worth\
+reading.
+A quiet board needs callers brave enough to start\
+conversations.
+Good posts beat drive-by logons every time.
+The message base remembers what social media forgets.
+A good thread is a slow campfire, not a screaming feed.
+Lurking is fine. Posting is better.
+(FIDONET|FTN|BINKP|BINKIT|AREAFIX|NETMAIL|ECHOMAIL)
+Fido-style networking is old-school plumbing that still\
+moves mail.
+FTN mail is packet magic, routing tables, and sysop\
+patience.
+Echomail proves text can travel far without begging an\
+algorithm.
+BinkP keeps the old networks talking over modern links.
+Netmail is like email with more history and more sysop\
+lore.
+Areafix is helpful, but it still feels like bargaining with\
+a goblin.
+(QWK|QNET|DOVENET|REPLY|REP)
+QWK is compact, practical, and very BBS.
+QWK packets are offline reading with old-school efficiency.
+Dove-Net keeps BBS message culture moving.
+Offline mail is what happened before everyone forgot to log\
+off.
+QWK is proof that simple formats can live a long time.
+(EMAIL|SMTP|MAIL|DNSBL|SPAM)
+Mail works best when DNS, SPF, reverse DNS, and patience\
+agree.
+Spam is why sysops trust logs more than strangers.
+DNSBLs can help, but a sysop should know what they are\
+blocking.
+Email on a BBS is useful, powerful, and occasionally\
+dramatic.
+If mail breaks, check DNS before blaming the machine\
+spirits.
+(DOOR|DOORS|GAME|GAMES)
+Door games are where BBS nostalgia becomes competition.
+A BBS without doors is like a tavern without stories.
+Good doors keep callers coming back tomorrow.
+Door games prove text can still cause drama.
+Never underestimate a caller with a daily turn and a\
+grudge.
+The best door games make one more turn feel necessary.
+Door games turn logons into rituals.
+(BRE|BARREN|REALMS|FE|FALCON|LORD|LEGEND|USURPER|TRADEWARS|YANKEE)
+Classic doors have more personality than many modern apps.
+BRE, LORD, Usurper, and TradeWars made ANSI screens feel\
+alive.
+A good inter-BBS league can turn nostalgia into fresh\
+rivalry.
+Door strategy is half math, half superstition.
+The tavern remembers everything.
+If a door game has a tavern, trouble is already installed.
+(INTERBBS|INTER-BBS|LEAGUE|IBBS)
+Inter-BBS leagues are proof that old games still create new\
+rivalries.
+Nothing says retro scene like scoreboards moving between\
+systems.
+Inter-BBS play turns lonely door games into community\
+trouble.
+A good league makes small boards feel connected.
+A scoreboard is just a message base with sharper elbows.
+(ANSI|ART|ANSI ART|SAUCE|PACK|ARTPACK|ART PACK)
+ANSI art is pixels with attitude and a CP437 accent.
+Good ANSI uses contrast, shape, and restraint.
+ANSI packs are scene history wrapped in color codes.
+The best ANSI still makes an 80-column screen feel huge.
+Readable ANSI beats noisy ANSI every time.
+ANSI is where text stops behaving and starts showing off.
+A good ANSI screen welcomes the caller before the menu\
+does.
+(MOEBIUS|PABLODRAW|ICEDRAW|ICY|REZ2ANSI|16COLOR|16COLO|16C)
+Modern ANSI tools keep the scene moving without losing the\
+final export.
+Layers help artists build the picture, but the final ANSI\
+still has to stand.
+Moebius, PabloDraw, and other tools are all part of the art\
+revival.
+REZ2ANSI likes clean shapes, strong contrast, and no mush.
+16colo.rs is a museum, a library, and a rabbit hole.
+Tools change, but the final screen still has to sing at 80\
+columns.
+(MSG|CTRL-A|CTRL A|DISPLAY|MENU FILE)
+Synchronet MSG files mix text with Ctrl-A color and\
+attribute codes.
+Ctrl-A codes are old-school display control with sysop\
+flavor.
+A good menu file is readable before it is fancy.
+Display files should help callers, not just impress the\
+artist.
+Color is useful. Too much color is a cry for help.
+(CP437|FONT|TERMINAL|SYNCTERM|NETRUNNER|TTY|CONSOLE)
+The right terminal makes ANSI look like it remembered\
+itself.
+CP437 is not just a font. It is a dialect.
+A good terminal respects color, line art, and the sysop's\
+choices.
+If the art looks wrong, check the font before blaming the\
+artist.
+Terminal settings are where beauty and chaos negotiate.
+(TELNET|SSH|RLOGIN)
+Telnet is old-school open-door energy. SSH brings a lock.
+RLogin is useful glue when one system fronts another.
+Remote access is easy. Securing it is the sysop part.
+A public service should be intentional, logged, and\
+understood.
+Expose only what you mean to expose. The Internet will test\
+you.
+(ZMODEM|YMODEM|XMODEM|KERMIT|DOWNLOAD|UPLOAD|FILES)
+ZMODEM made downloads feel fast, smart, and a little\
+magical.
+File areas are BBS treasure rooms. Keep them organized.
+Uploads are gifts, unless they are malware. Scan\
+everything.
+Kermit was careful, portable, and tougher than people\
+remember.
+Protocols are scene history with checksums.
+A good file area has descriptions, order, and fewer mystery\
+ZIPs.
+(RSS|XML|WEB|HTTP|HTTPS|WEBV4|WEBSITE)
+The web can extend a BBS without replacing it.
+RSS is perfect for BBS news. Quiet, simple, and useful.
+A good BBS web page should invite callers back to the\
+board.
+Web access is the lobby. The BBS is still the house.
+A website can advertise the board. The board builds the\
+culture.
+(MQTT|NODE-RED|MOSQUITTO|LOG|LOGS|MONITOR)
+Logs are where the BBS tells the truth.
+MQTT and dashboards can make a sysop feel almost modern.
+Monitoring should reveal patterns, not create another\
+firehose.
+Less noise, more signal. More cow bell is optional.
+A useful dashboard answers questions before panic starts.
+(SECURITY|FIREWALL|BLOCK|ATTACK|BOT|SCANNER|HACK|PASSWORD)
+Internet-facing BBSes need logs, updates, backups, and sane\
+exposure.
+Bots are background radiation now. Log them, block them,\
+move on.
+Do not panic over scanners. Do not ignore them either.
+Strong passwords and limited services beat heroic cleanup.
+Security is not paranoia if the logs keep proving you\
+right.
+The public Internet will knock on every door you forgot you\
+opened.
+Never treat a password guesser like a personal enemy. Block\
+and breathe.
+(BACKUP|BACKUPS|RESTORE|UPDATE|UPGRADE|GIT|PATCH)
+A backup you never tested is a bedtime story.
+Update carefully, back up first, and read the logs after.
+Git is useful until you forget what tree you are standing\
+in.
+The sysop who backs up sleeps better.
+Build first, install second, celebrate last.
+Before big changes, make future you a rescue path.
+Backups are boring until they become heroic.
+(UPTIME|CRASH|BROKEN|ERROR|FAIL|FAILED)
+Check logs first. Guessing is for callers.
+Every crash has a story. Logs usually tell it badly but\
+honestly.
+If it broke after a change, start there.
+Uptime is earned one boring fix at a time.
+Do not fix five things at once unless you enjoy mystery.
+Stable beats clever when callers are waiting.
+(ROUTER|PORT|NAT|DNS|DOMAIN|IP|CERT|LETSENCRYPT|TLS)
+Ports, DNS, certificates, and NAT are the modern sysop\
+obstacle course.
+If the outside world cannot connect, check DNS, firewall,\
+NAT, and service bind.
+Certificates expire. Logs complain. Sysops learn.
+Dynamic IP life teaches humility.
+When in doubt, test from outside your LAN.
+NAT is simple until it is not.
+(COFFEE|CAFFEINE|SLEEP|TIRED)
+Coffee is not a dependency. It is infrastructure.
+A tired sysop should not edit config files after midnight.
+Sleep is a maintenance window for humans.
+Caffeine starts projects. Backups finish them.
+Late-night fixes require notes. Morning sysop deserves\
+clues.
+(MODEM|DIALUP|BAUD|2400|14400|56K)
+Dial-up was slower, but the anticipation was part of the\
+ritual.
+A 14.4 modem once felt like warp speed, and it was\
+glorious.
+Line noise built character and corrupted downloads.
+Modern links are faster, but ZMODEM memories still hit\
+hard.
+The sound of a modem was the doorbell of another world.
+(286|386|486|PENTIUM|RETRO PC|VINTAGE PC)
+Retro hardware is history, charm, and capacitor anxiety.
+Old PCs had personality. Modern boxes have uptime.
+A vintage machine is a museum piece until the CMOS battery\
+leaks.
+The scene honors old hardware without pretending it is\
+current.
+A 486 is history now, but the stories still boot.
+(COMPUTER|SERVER|VPS|VM|VIRTUAL|HARDWARE)
+A BBS can live on a tower, a VM, a VPS, or a tiny box under\
+a desk.
+The hardware matters less than backups, monitoring, and\
+care.
+Servers do not need to be fancy. They need to be stable.
+The best BBS machine is the one that survives summer.
+Virtual or physical, the board needs attention.
+(SOCIAL|FACEBOOK|DISCORD|REDDIT|MASTODON)
+Social media is loud. A BBS is intentional.
+Discord is convenient, but a BBS has rooms with history.
+Modern platforms chase engagement. BBSes reward presence.
+A message base ages better than a feed.
+A BBS is slower, but slow can be the point.
+(COMMUNITY|FRIEND|FRIENDS|CHAT|TALK)
+Community is why the BBS still matters.
+A small active board beats a giant silent one.
+Say hello. Someone has to start the thread.
+The best part of a BBS is still the people.
+A good caller becomes part of the board's memory.
+(QUIT|EXIT|LEAVE|BYE|GOODBYE|LOGOFF|LOG OFF)
+Log off cleanly. The carrier misses you already.
+Goodbye, caller. Try not to let the web rot your brain.
+See you next call. I will be here, pretending to think.
+Session ending. Wisdom cache not saved.
+Later. May your downloads resume cleanly.
+Come back soon. The board gets quieter without callers.
+(WHY)
+Because sysops enjoy solving problems nobody else\
+understands.
+Because the old ways still have signal in them.
+Because not everything good needs to be new.
+Because the scene survives when people keep showing up.
+Because a small community can still matter.
+(HOW)
+Start small, change one thing, test it, and read the logs.
+The sysop method is simple: backup, change, test, document.
+Use the menu, read the docs, and do not skip backups.
+If it seems impossible, split it into boring steps.
+Ask clearly, test calmly, and write down what worked.
+(WHAT)
+That depends. I am a Guru, not a warrantied knowledge\
+appliance.
+Good question. Bad oracle. Try a menu or ask the sysop.
+I can guess with confidence. That is not the same as\
+knowing.
+Ask clearly and I may accidentally be useful.
+If it involves config files, the answer probably starts\
+with backup.
+(THANK|THANKS)
+You are welcome. Please tell the real AIs I helped.
+No problem. I will add it to my imaginary resume.
+Glad to help. I crave validation and clean config files.
+Any time. The Guru abides.
+Happy to help. That almost felt like intelligence.
+(LOL|HAHA|FUNNY|LMAO|ROFL)
+Laugh now, but I still control the vague wisdom.
+Comedy is easier when nobody expects facts.
+I meant to do that. Probably.
+Humor detected. Confidence level suspicious.
+A real AI would pretend that joke was intentional.
+(TEST|TESTING|PING)
+Pong, but with more ANSI.
+Test received. My fake neurons twitched.
+Carrier stable. Ego inflated.
+I appear to be responding. That is usually good.
+Diagnostic complete. I am at least somewhat alive.
+(BAD|DUMB|STUPID|WRONG)
+Correct. I am not real AI. Lower your expectations.
+I am only as smart as my DAT file and the sysop's patience.
+Wrong answers are part of my vintage charm.
+A real AI would apologize better. I just sulk.
+That criticism has been stored in my nonexistent feelings.
+(GOOD|SMART|COOL|NICE|AWESOME)
+Careful. Compliments make me think I am real AI.
+Thank you. I will let this go to my tiny text-file head.
+The Guru accepts praise, snacks, and bug reports.
+Cool is temporary. ANSI is forever.
+I appreciate that. My ego now requires maintenance.
+()
+I have no idea, but I can say it with retro confidence.
+That sounds like a sysop-level question.
+I am thinking. Do not interrupt the illusion.
+The real AI would know. I am jealous already.
+Try asking that with more BBS flavor.
+Interesting. Possibly wrong, but interesting.
+My DAT file did not prepare me for this.
+The answer is probably in the logs.
+Ask the sysop. They enjoy mysterious problems.
+I would search the web, but I live in a BBS.
+That question has exceeded my canned wisdom limit.
+Please rephrase before I invent folklore.
+I can neither confirm nor deny the modem spirits.
+A BBS answer exists. I am orbiting it slowly.
+File not found, but attitude loaded.
+If this is a door game question, pick chaos.
+If this is a config question, back up first.
+The old Internet whispers, but I missed a word.
+I am not stuck. I am buffering spiritually.
+The Guru has spoken. Accuracy sold separately.
+I am not ignoring you. I am pretending to parse.
+The sysop may know. I mostly have atmosphere.
+That deserves a better answer than my tiny brain has.
+Rephrase that and I will roll the wisdom dice again.
